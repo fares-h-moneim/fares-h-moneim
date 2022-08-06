@@ -15,8 +15,6 @@
 <a href="https://codeforces.com/profile/fares.h.moneim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fares.h.moneim" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fares-h-moneim&show_icons=true&hide=stars" />
